@@ -1,1 +1,1 @@
-flink:1.16.2
+flink-docker:1.16
