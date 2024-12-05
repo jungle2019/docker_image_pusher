@@ -1,1 +1,1 @@
-nginx
+ghcr.io/apache/flink-kubernetes-operator:be07be7
